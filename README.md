@@ -25,5 +25,5 @@ Passionate developer focused on building efficient, scalable, and clean solution
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Saket-db/Saket-db/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/prathum08/prathum08/output/snake.svg" alt="Snake animation" />
 </div>
