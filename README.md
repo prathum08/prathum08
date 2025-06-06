@@ -21,9 +21,4 @@ Passionate developer focused on building efficient, scalable, and clean solution
 ---
 [![](https://visitcount.itsvg.in/api?id=prathum08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Snake Game
-<br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prathum08/prathum08/output/snake.svg" alt="Snake animation" />
-</div>
