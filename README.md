@@ -15,10 +15,11 @@ Passionate developer focused on building efficient, scalable, and clean solution
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prathum08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prathum08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Snake Game
+### ✍️ Random Dev Quote
